@@ -1,0 +1,11 @@
+{
+  "name": "js_pingpong",
+  "version": "1.0.0",
+  "description": "PingPong Game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "HK99",
+  "license": "MIT"
+}
